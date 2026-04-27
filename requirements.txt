@@ -1,0 +1,6 @@
+streamlit
+groq
+stripe
+PyPDF2
+requests
+python-dotenv
